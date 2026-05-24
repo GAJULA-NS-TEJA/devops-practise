@@ -2,5 +2,4 @@ To use GitHub effectively, it's helpful to understand its fundamental building b
 Repositories (Repos): The "folder" for your project. It contains all files and their entire revision history.
 Branches: Independent "lines of work" that allow you to develop new features or fix bugs without affecting the main project code.
 Commits: Snapshots of your changes. Each commit includes a message explaining what was changed and why.
-Pull Requests (PRs): The primary way to collaborate. You propose changes from your branch to the main project, allowing others to review and discuss the code before it is merged.
-Forks: A personal copy of someone else's project. This allows you to experiment with changes without affecting the original
+Pull Requests (PRs): T
